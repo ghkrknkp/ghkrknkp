@@ -34,49 +34,6 @@
 
 ## 🌟 Featured & Recently Built Projects
 
-### 🛡️ Cybersecurity & DevSecOps
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><b>SentinelAI — Security Vulnerability Auditor</b></h3>
-      <p align="center">
-        <a href="https://github.com/ghkrknkp/Ai-security-"><b>View Repository ➜</b></a>
-      </p>
-      <p>Enterprise-grade <b>Application Security Testing (AST) & DevSecOps</b> platform that accepts repositories or ZIP source code, performs deterministic static security scans, CVSS scoring, and automated AI vulnerability remediation.</p>
-      <ul>
-        <li>Static Code Analysis (SAST) for SQLi, XSS, insecure deserialization & hardcoded secrets.</li>
-        <li>Automated remediation code generation powered by AI LLM agents.</li>
-        <li>Compliance audit exports & CVSS severity classification.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/DevSecOps-SAST-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/OWASP-Top%2010-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><b>AuthVault — Secure Full-Stack Auth & OTP</b></h3>
-      <p align="center">
-        <a href="https://github.com/ghkrknkp/authvault"><b>View Repository ➜</b></a>
-      </p>
-      <p>Production-hardened authentication system featuring <b>Gmail 6-digit OTP verification</b>, cryptographic JWT session management, brute-force rate-limiting, and password hashing.</p>
-      <ul>
-        <li>Cryptographic password hashing (bcrypt) and short-lived signed JWTs.</li>
-        <li>Time-based OTP generation & Gmail SMTP delivery with expiration logic.</li>
-        <li>Protection against replay attacks, brute-forcing, and credential stuffing.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-Security-black?style=flat-square&logo=jsonwebtokens" />
-        <img src="https://img.shields.io/badge/SQLite%20%2F%20Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 ### 🤖 AI Engineering & Machine Learning
 
 <table>
@@ -153,6 +110,49 @@
         <img src="https://img.shields.io/badge/Speech%20to%20Text-Web%20Audio-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/ATS-Scoring%20(88%25)-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🛡️ Cybersecurity & DevSecOps
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>SentinelAI — Security Vulnerability Auditor</b></h3>
+      <p align="center">
+        <a href="https://github.com/ghkrknkp/Ai-security-"><b>View Repository ➜</b></a>
+      </p>
+      <p>Enterprise-grade <b>Application Security Testing (AST) & DevSecOps</b> platform that accepts repositories or ZIP source code, performs deterministic static security scans, CVSS scoring, and automated AI vulnerability remediation.</p>
+      <ul>
+        <li>Static Code Analysis (SAST) for SQLi, XSS, insecure deserialization & hardcoded secrets.</li>
+        <li>Automated remediation code generation powered by AI LLM agents.</li>
+        <li>Compliance audit exports & CVSS severity classification.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/DevSecOps-SAST-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/OWASP-Top%2010-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>AuthVault — Secure Full-Stack Auth & OTP</b></h3>
+      <p align="center">
+        <a href="https://github.com/ghkrknkp/authvault"><b>View Repository ➜</b></a>
+      </p>
+      <p>Production-hardened authentication system featuring <b>Gmail 6-digit OTP verification</b>, cryptographic JWT session management, brute-force rate-limiting, and password hashing.</p>
+      <ul>
+        <li>Cryptographic password hashing (bcrypt) and short-lived signed JWTs.</li>
+        <li>Time-based OTP generation & Gmail SMTP delivery with expiration logic.</li>
+        <li>Protection against replay attacks, brute-forcing, and credential stuffing.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-Security-black?style=flat-square&logo=jsonwebtokens" />
+        <img src="https://img.shields.io/badge/SQLite%20%2F%20Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
